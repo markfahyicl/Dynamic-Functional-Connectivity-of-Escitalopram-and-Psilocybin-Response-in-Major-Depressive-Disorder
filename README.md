@@ -95,5 +95,5 @@ The notebooks use the following third-party software.
 | [Nilearn](https://nilearn.github.io/) | Atlas retrieval, image resampling, parcellation and brain visualisation |
 | [NiChord](https://github.com/paulcbogdan/NiChord) | Chord diagrams of state connectivity |
 | [Requests](https://requests.readthedocs.io/) | Downloading the combined parcellation atlas |
-| [IPython](https://ipython.org/) | Rich table and Markdown display within notebooks |
-| [JupyterLab](https://jupyterlab.readthedocs.io/) | Interactive execution of the notebooks |
+| [IPython](https://ipython.org/) | Table display within notebooks |
+| [JupyterLab](https://jupyterlab.readthedocs.io/) | Execution of the notebooks |
