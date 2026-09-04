@@ -27,7 +27,7 @@ The notebooks should be read and, where data access permits, run in the followin
 | `synchrony_metastability.ipynb` | Calculates whole-brain and network-level synchrony and metastability and performs the associated statistical analyses. |
 | `leida_eida.ipynb` | Performs LEiDA and EiDA clustering, compares the information retained by the two representations, and analyses fractional occupancy and dwell time. |
 
-The parcellation notebook produces `parcellated_timeseries.npz`, which is the input to both `04_synchrony_metastability.ipynb` and `05_leida_eida.ipynb`. The saving cell is commented out by default it must be uncommented if this processed file is to be written.
+The parcellation notebook produces `parcellated_timeseries.npz`, which is the input to both `synchrony_metastability.ipynb` and `leida_eida.ipynb`. The saving cell is commented out by default it must be uncommented if this processed file is to be written.
 
 ## Data availability
 
