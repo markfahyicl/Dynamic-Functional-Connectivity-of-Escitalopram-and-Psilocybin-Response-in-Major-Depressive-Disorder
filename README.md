@@ -21,11 +21,11 @@ The notebooks should be read and, where data access permits, run in the followin
 
 | Notebook | Description |
 | --- | --- |
-| `qids.ipynb` | Describes pre-treatment and post-treatment QIDS-SR-16 scores, plots their distributions, and compares changes between treatment groups. |
+| `qids.ipynb` | Describes pre-treatment and post-treatment QIDS-SR-16 scores, plots their distributions and compares changes between treatment groups. |
 | `motion_qc.ipynb` | Calculates the percentage of frames with framewise displacement greater than or equal to 0.5 mm and displays the worst scan for each participant. |
-| `parcellation.ipynb` | Applies the combined Schaefer-100 cortical and Tian-16 subcortical atlas, displays the cortical networks and subcortical regions, and extracts the 116 regional time series. |
+| `parcellation.ipynb` | Applies the combined Schaefer-100 cortical and Tian-16 subcortical atlas, displays the cortical networks and subcortical regions and extracts the 116 regional time series. |
 | `synchrony_metastability.ipynb` | Calculates whole-brain and network-level synchrony and metastability and performs the associated statistical analyses. |
-| `leida_eida.ipynb` | Performs LEiDA and EiDA clustering, compares the information retained by the two representations, and analyses fractional occupancy and dwell time. |
+| `leida_eida.ipynb` | Performs LEiDA and EiDA clustering, compares the information retained by the two representations and analyses fractional occupancy and dwell time. |
 
 The parcellation notebook produces `parcellated_timeseries.npz`, which is the input to both `synchrony_metastability.ipynb` and `leida_eida.ipynb`. The saving cell is commented out by default it must be uncommented if this processed file is to be written.
 
