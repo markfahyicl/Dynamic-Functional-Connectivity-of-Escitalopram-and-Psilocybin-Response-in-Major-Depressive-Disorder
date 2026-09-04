@@ -7,16 +7,12 @@ This repository contains the Python notebooks used for the analyses presented in
 ```text
 .
 ├── README.md
-├── requirements.txt
 ├── notebooks/
 │   ├── qids.ipynb
 │   ├── motion_qc.ipynb
 │   ├── parcellation.ipynb
 │   ├── synchrony_metastability.ipynb
 │   └── leida_eida.ipynb
-└── atlases/
-    ├── README.md
-    └── Schaefer2018_100Parcels_7Networks_order_Tian_Subcortex_S1_label.txt
 ```
 
 ## Analysis workflow
