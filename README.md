@@ -1,0 +1,1 @@
+# Dynamic-Functional-Connectivity-of-Escitalopram-and-Psilocybin-Response-in-Major-Depressive-Disorder
